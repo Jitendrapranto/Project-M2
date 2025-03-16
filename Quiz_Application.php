@@ -31,5 +31,5 @@ if ($score === count($answers)) {
     } else {
     echo "Better luck next time!\n";
     }
-    print_r($answers);
+
 
